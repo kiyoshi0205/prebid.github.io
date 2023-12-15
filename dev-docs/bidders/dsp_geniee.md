@@ -7,6 +7,7 @@ userId: imuId
 media_types: banner
 safeframes_ok: false
 floors_supported: true
+pbjs: true
 multiformat_supported: will-bid-on-one
 ortb_blocking_supported: true
 sidebarType: 1
